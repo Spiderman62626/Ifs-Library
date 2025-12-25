@@ -1,4 +1,4 @@
-# Branchless Library
+# Ifs Library
 
 This library creates an organized and easily legible way to assign values with conditions.
 **Note**: This library is for learning purposes only as many compilers already have optimizations for branching and the performance difference is mostly negligible.
