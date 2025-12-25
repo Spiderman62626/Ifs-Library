@@ -59,5 +59,5 @@ This library creates an organized and easily legible way to assign values with c
 
 - Put the library file in the project folder and the compiler will automatically find it when it sees this line:
   ```cpp
-  #include "branchless.hpp"
+  #include "ifs.hpp"
   ```
